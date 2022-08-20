@@ -1,0 +1,9 @@
+Codigo dos Botôes das aulas da Softex
+
+Botão de voltar a Aula anterior e passar para Proxima Aula
+botão de enviar um Link dentro do Input
+
+
+<button _ngcontent-esq-c306="" mat-flat-button="" class="mat-focus-indicator tooltip mat-flat-button mat-button-base active-button"><span class="mat-button-wrapper"><div _ngcontent-esq-c306="" class="tooltip-info ng-star-inserted"><div _ngcontent-esq-c306="" class="tooltip_content"><i _ngcontent-esq-c306="" class="fa-youtube fab oda-icon"></i> Vídeo 1 </div></div><!----> Atividade anterior </span><span matripple="" class="mat-ripple mat-button-ripple"></span><span class="mat-button-focus-overlay"></span></button>
+
+<button _ngcontent-esq-c330="" mat-flat-button="" class="mat-focus-indicator finish-button mat-flat-button mat-button-base"><span class="mat-button-wrapper">Enviar</span><span matripple="" class="mat-ripple mat-button-ripple"></span><span class="mat-button-focus-overlay"></span></button>
